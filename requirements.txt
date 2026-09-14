@@ -1,0 +1,11 @@
+langgraph
+langchain-groq
+langchain-core
+langchain-community
+python-dotenv
+pydantic
+streamlit
+duckduckgo-search
+wikipedia
+arxiv
+pymed
