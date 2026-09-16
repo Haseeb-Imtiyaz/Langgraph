@@ -40,6 +40,7 @@ copy .env.example .env         # Windows
 | 06 | `06_Conditional_Workflow.ipynb` | Conditional routing | Quadratic equation solver that routes to different nodes based on the discriminant |
 | 07 | `07_Review_Response.ipynb` | Conditional + LLM | Sentiment analysis → positive reply or negative analysis → tailored negative reply |
 | 08 | `08_Tweet_Generator.ipynb` | Loops + conditional edges | Generate → evaluate → optimize tweet loop until approved or max iterations reached |
+| 09 | `09_RAG.ipynb` | How to use RAG in Langgraph as a tool |
 | — | `Chatbot/` | Full application | Streamlit chatbot with tool calling, SQLite memory, and conversation history |
 
 ---
@@ -219,7 +220,8 @@ These projects follow a progressive learning order:
 6. **Conditional routing** — branching logic (06)
 7. **Conditional + LLM** — sentiment-based workflows (07)
 8. **Loops** — iterative refinement (08)
-9. **Production app** — tools, memory, UI (Chatbot)
+9. **RAG** - RAG in Langgarpg (09)
+10. **Production app** — tools, memory, UI (Chatbot)
 
 ---
 
